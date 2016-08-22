@@ -62,7 +62,6 @@
         <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true"/>
         <option name="ALIGN_CLASS_CONSTANTS" value="true"/>
         <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true"/>
-        <option name="PHPDOC_USE_FQCN" value="true"/>
     </PHPCodeStyleSettings>
     <DBN-PSQL>
         <case-options enabled="false">
@@ -91,6 +90,10 @@
     <XML>
         <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true"/>
     </XML>
+    <codeStyleSettings language="HTML">
+        <option name="RIGHT_MARGIN" value="2000"/>
+        <option name="WRAP_ON_TYPING" value="0"/>
+    </codeStyleSettings>
     <codeStyleSettings language="JSON">
         <option name="KEEP_BLANK_LINES_IN_CODE" value="1"/>
         <option name="SPACE_WITHIN_BRACKETS" value="true"/>
@@ -115,6 +118,10 @@
         <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true"/>
         <option name="SPACE_AFTER_TYPE_CAST" value="true"/>
         <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true"/>
+    </codeStyleSettings>
+    <codeStyleSettings language="Twig">
+        <option name="RIGHT_MARGIN" value="2000"/>
+        <option name="WRAP_ON_TYPING" value="0"/>
     </codeStyleSettings>
     <codeStyleSettings language="TypeScript">
         <option name="CLASS_BRACE_STYLE" value="2"/>
