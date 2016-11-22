@@ -34,6 +34,9 @@ Supposed tools: Selenium and similar tools.
 _david: I have very small practical experience with these tests_
 
 
+## Tools
+
+[Interesting article about AVA and Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.h6176qd25). Maybe we should try Jest - so any mentions here about AVA may mean Jest :).
 
 
 ### Reducers
